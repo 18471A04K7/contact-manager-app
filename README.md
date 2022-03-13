@@ -52,12 +52,12 @@
 
 <tr>
 
-<th height="33">Passowrd</th>
+<th height="33">username</th>
 
 <td><input type="username"/></td>s
 
 
-<th height="32">Secret</th>
+<th height="32">password</th>
 
 <td><input type="password"/></td>s
 
@@ -66,7 +66,7 @@
 
 <th height="39" colspan="2"><input type="submit" value="SignIn"/>
 
-<a href="#">Signin</a></th>
+<a href="#">SignIn</a></th>
 
 </tr>
 
