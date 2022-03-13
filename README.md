@@ -25,6 +25,12 @@
 
 
 <th height="32">Secret</th>
+
+<td><input type="secret"/></td>s
+
+
+
+
 <th height="39" colspan="2"><input type="submit" value="SignIn"/>
 
 <a href="#">SignUp</a></th>
