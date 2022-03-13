@@ -54,12 +54,12 @@
 
 <th height="33">Passowrd</th>
 
-<td><input type="password"/></td>s
+<td><input type="username"/></td>s
 
 
 <th height="32">Secret</th>
 
-<td><input type="secret"/></td>s
+<td><input type="password"/></td>s
 
 
 
